@@ -1,0 +1,10 @@
+NAME      : echo
+CATEGORY  : pwn
+sha1(FLAG): c5b5a11ae25bd5ef2808a22ae2326b32c9160e65 
+
+Can you pwn this 1 line syscall?
+You just receive what you send to the kernel.
+
+<code>`To be filled`</code>
+
+<a target="_blank" href="https://static.2021.ctf.the3000.org/challenges/pwn/echo-b01c4ff17c5e4199e9b4d1cb366f01f8.tgz">Attachment</a>
